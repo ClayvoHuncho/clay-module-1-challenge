@@ -1,5 +1,5 @@
-
 # clay-module-1-challenge
+<<<<<<< HEAD
 
 ## Description
 This project aims to edit a webpage that meets accessibility standards by utilizing semantic HTML elements, a logical structure independent of styling and positioning, accessible alt attributes for image elements, sequential ordering of heading attributes, and a concise, descriptive title element.
@@ -49,4 +49,13 @@ If your project has a lot of features, list them here.
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
 ## Tests
+=======
+>>>>>>> 3d68755965ea53d2edd53ce341cc4b52e6d411ad
 
+## Description
+This project aims to edit a webpage that meets accessibility standards by utilizing semantic HTML elements, a logical structure independent of styling and positioning, accessible alt attributes for image elements, sequential ordering of heading attributes, and a concise, descriptive title element.
+
+## Screenshot
+
+
+## Link
